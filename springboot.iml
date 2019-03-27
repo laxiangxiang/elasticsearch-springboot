@@ -12,6 +12,33 @@
         </sourceRoots>
       </configuration>
     </facet>
+    <facet type="Spring" name="Spring">
+      <configuration>
+        <fileset id="fileset" name="Spring Application Context" removed="false">
+          <file>file://C:/Program Files/apache-tomcat-9.0.0.M1/webapps/ROOT/WEB-INF/classes/com/mj/wuhanmidea/esop/config/AsyncConfiguration.class</file>
+          <file>file://C:/Program Files/apache-tomcat-9.0.0.M1/webapps/ROOT/WEB-INF/classes/com/mj/wuhanmidea/esop/config/CacheConfiguration.class</file>
+          <file>file://C:/Program Files/apache-tomcat-9.0.0.M1/webapps/ROOT/WEB-INF/classes/com/mj/wuhanmidea/esop/config/CloudDatabaseConfiguration.class</file>
+          <file>file://C:/Program Files/apache-tomcat-9.0.0.M1/webapps/ROOT/WEB-INF/classes/com/mj/wuhanmidea/esop/config/DatabaseConfiguration.class</file>
+          <file>file://C:/Program Files/apache-tomcat-9.0.0.M1/webapps/ROOT/WEB-INF/classes/com/mj/wuhanmidea/esop/config/ElasticSearchConfiguration.class</file>
+          <file>file://C:/Program Files/apache-tomcat-9.0.0.M1/webapps/ROOT/WEB-INF/classes/com/mj/wuhanmidea/esop/config/HttpclientConfiguration.class</file>
+          <file>file://C:/Program Files/apache-tomcat-9.0.0.M1/webapps/ROOT/WEB-INF/classes/com/mj/wuhanmidea/esop/config/JacksonConfiguration.class</file>
+          <file>file://C:/Program Files/apache-tomcat-9.0.0.M1/webapps/ROOT/WEB-INF/classes/com/mj/wuhanmidea/esop/config/LocaleConfiguration.class</file>
+          <file>file://C:/Program Files/apache-tomcat-9.0.0.M1/webapps/ROOT/WEB-INF/classes/com/mj/wuhanmidea/esop/config/LoggingAspectConfiguration.class</file>
+          <file>file://C:/Program Files/apache-tomcat-9.0.0.M1/webapps/ROOT/WEB-INF/classes/com/mj/wuhanmidea/esop/config/MainLineConfiguration.class</file>
+          <file>file://C:/Program Files/apache-tomcat-9.0.0.M1/webapps/ROOT/WEB-INF/classes/com/mj/wuhanmidea/esop/config/MetricsConfiguration.class</file>
+          <file>file://C:/Program Files/apache-tomcat-9.0.0.M1/webapps/ROOT/WEB-INF/classes/com/mj/wuhanmidea/esop/config/OpcUaConfiguration.class</file>
+          <file>file://C:/Program Files/apache-tomcat-9.0.0.M1/webapps/ROOT/WEB-INF/classes/com/mj/wuhanmidea/esop/config/RabbitmqConfiguration.class</file>
+          <file>file://C:/Program Files/apache-tomcat-9.0.0.M1/webapps/ROOT/WEB-INF/classes/com/mj/wuhanmidea/esop/config/SecurityConfiguration.class</file>
+          <file>file://C:/Program Files/apache-tomcat-9.0.0.M1/webapps/ROOT/WEB-INF/classes/com/mj/wuhanmidea/esop/config/apidoc/SwaggerConfiguration.class</file>
+          <file>file://C:/Program Files/apache-tomcat-9.0.0.M1/webapps/ROOT/WEB-INF/classes/com/mj/wuhanmidea/esop/config/ThymeleafConfiguration.class</file>
+          <file>file://C:/Program Files/apache-tomcat-9.0.0.M1/webapps/ROOT/WEB-INF/classes/com/mj/wuhanmidea/esop/config/WebConfigurer.class</file>
+          <file>file://C:/Program Files/apache-tomcat-9.0.0.M1/webapps/ROOT/WEB-INF/classes/com/mj/wuhanmidea/esop/config/WebsocketConfiguration.class</file>
+          <file>file://C:/Program Files/apache-tomcat-9.0.0.M1/webapps/ROOT/WEB-INF/classes/com/mj/wuhanmidea/esop/config/WebsocketSecurityConfiguration.class</file>
+          <file>file://C:/Program Files/apache-tomcat-9.0.0.M1/webapps/ROOT/WEB-INF/classes/com/mj/wuhanmidea/esop/config/XAuthConfiguration.class</file>
+          <file>file://$MODULE_DIR$/src/main/java/com/how2java/springboot/Application.java</file>
+        </fileset>
+      </configuration>
+    </facet>
   </component>
   <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_8" inherit-compiler-output="false">
     <output url="file://$MODULE_DIR$/target/classes" />
@@ -97,5 +124,6 @@
     <orderEntry type="library" name="Maven: com.twitter:jsr166e:1.1.0" level="project" />
     <orderEntry type="library" name="Maven: org.slf4j:slf4j-api:1.7.25" level="project" />
     <orderEntry type="library" name="Maven: org.slf4j:jcl-over-slf4j:1.7.25" level="project" />
+    <orderEntry type="library" name="Program Files" level="project" />
   </component>
 </module>

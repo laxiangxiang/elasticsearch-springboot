@@ -3,6 +3,11 @@
     <output-path>$PROJECT_DIR$/target</output-path>
     <root id="archive" name="springboot-0.0.1-SNAPSHOT.war">
       <element id="artifact" artifact-name="springboot:war exploded" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="library" level="project" name="Program Files" />
+        </element>
+      </element>
     </root>
   </artifact>
 </component>
